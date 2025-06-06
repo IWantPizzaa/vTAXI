@@ -1,0 +1,1693 @@
+{
+  "airport_code": "LFPO",
+  "name": "Paris-Orly Airport",
+  "runways": {},
+  "gates": {
+    "terminals": {
+      "K": {
+        "gates": [
+          {
+            "gate_id": "K01",
+            "node_id": "N00566",
+            "coordinates": [
+              2.3729856,
+              48.7432128
+            ],
+            "heading": 154.65787937093958,
+            "segment_id": "S00749"
+          },
+          {
+            "gate_id": "K02",
+            "node_id": "N00214",
+            "coordinates": [
+              2.3731603,
+              48.7430748
+            ],
+            "heading": 91.07221589568383,
+            "segment_id": "S00507"
+          },
+          {
+            "gate_id": "K04",
+            "node_id": "N00216",
+            "coordinates": [
+              2.3737874,
+              48.7430074
+            ],
+            "heading": 91.1429678338644,
+            "segment_id": "S00508"
+          },
+          {
+            "gate_id": "K05",
+            "node_id": "N00222",
+            "coordinates": [
+              2.371077,
+              48.7432309
+            ],
+            "heading": 91.22133085900958,
+            "segment_id": "S00511"
+          },
+          {
+            "gate_id": "K06",
+            "node_id": "N00219",
+            "coordinates": [
+              2.3708337,
+              48.7433579
+            ],
+            "heading": 271.09533705257985,
+            "segment_id": "S00510"
+          },
+          {
+            "gate_id": "K07",
+            "node_id": "N00218",
+            "coordinates": [
+              2.3704376,
+              48.743225
+            ],
+            "heading": 91.2740980944061,
+            "segment_id": "S00509"
+          },
+          {
+            "gate_id": "K08",
+            "node_id": "N00226",
+            "coordinates": [
+              2.3721903,
+              48.7433021
+            ],
+            "heading": 89.82328489374041,
+            "segment_id": "S00513"
+          },
+          {
+            "gate_id": "K18",
+            "node_id": "N00188",
+            "coordinates": [
+              2.3743233,
+              48.7414917
+            ],
+            "heading": 271.4333132974035,
+            "segment_id": "S00494"
+          },
+          {
+            "gate_id": "K19",
+            "node_id": "N00190",
+            "coordinates": [
+              2.3749503,
+              48.7414968
+            ],
+            "heading": 271.2589687963119,
+            "segment_id": "S00495"
+          },
+          {
+            "gate_id": "K20",
+            "node_id": "N00192",
+            "coordinates": [
+              2.3755228,
+              48.7415122
+            ],
+            "heading": 271.4442438857262,
+            "segment_id": "S00496"
+          },
+          {
+            "gate_id": "K21",
+            "node_id": "N00194",
+            "coordinates": [
+              2.3761291,
+              48.7416574
+            ],
+            "heading": 271.7702421624932,
+            "segment_id": "S00497"
+          },
+          {
+            "gate_id": "K22",
+            "node_id": "N00196",
+            "coordinates": [
+              2.3768027,
+              48.7415873
+            ],
+            "heading": 270.1835906544617,
+            "segment_id": "S00498"
+          },
+          {
+            "gate_id": "K23",
+            "node_id": "N00198",
+            "coordinates": [
+              2.377111,
+              48.7414626
+            ],
+            "heading": 271.01334244302853,
+            "segment_id": "S00499"
+          },
+          {
+            "gate_id": "K24",
+            "node_id": "N00200",
+            "coordinates": [
+              2.3773986,
+              48.741589
+            ],
+            "heading": 270.1903760255752,
+            "segment_id": "S00500"
+          },
+          {
+            "gate_id": "K25",
+            "node_id": "N00202",
+            "coordinates": [
+              2.3782329,
+              48.7414865
+            ],
+            "heading": 253.6291244224432,
+            "segment_id": "S00501"
+          },
+          {
+            "gate_id": "K26",
+            "node_id": "N00204",
+            "coordinates": [
+              2.3784168,
+              48.7413225
+            ],
+            "heading": 253.59510443711247,
+            "segment_id": "S00502"
+          },
+          {
+            "gate_id": "K27",
+            "node_id": "N00206",
+            "coordinates": [
+              2.3787391,
+              48.741583
+            ],
+            "heading": 254.07617704265934,
+            "segment_id": "S00503"
+          },
+          {
+            "gate_id": "K30",
+            "node_id": "N00180",
+            "coordinates": [
+              2.374984,
+              48.7407217
+            ],
+            "heading": 90.8550973962561,
+            "segment_id": "S00490"
+          },
+          {
+            "gate_id": "K31",
+            "node_id": "N00182",
+            "coordinates": [
+              2.3752166,
+              48.7407299
+            ],
+            "heading": 90.81834722943478,
+            "segment_id": "S00491"
+          },
+          {
+            "gate_id": "K32",
+            "node_id": "N00184",
+            "coordinates": [
+              2.3755817,
+              48.7407293
+            ],
+            "heading": 91.11284351728573,
+            "segment_id": "S00492"
+          },
+          {
+            "gate_id": "K33",
+            "node_id": "N00186",
+            "coordinates": [
+              2.3764801,
+              48.7407695
+            ],
+            "heading": 91.12057485637267,
+            "segment_id": "S00493"
+          },
+          {
+            "gate_id": "K37",
+            "node_id": "N00212",
+            "coordinates": [
+              2.3818508,
+              48.7431884
+            ],
+            "heading": 113.01700720170285,
+            "segment_id": "S00506"
+          },
+          {
+            "gate_id": "K40",
+            "node_id": "N00210",
+            "coordinates": [
+              2.3798403,
+              48.7420519
+            ],
+            "heading": 223.27127589119326,
+            "segment_id": "S00505"
+          },
+          {
+            "gate_id": "K42",
+            "node_id": "N00208",
+            "coordinates": [
+              2.3799027,
+              48.7417488
+            ],
+            "heading": 254.43892708617227,
+            "segment_id": "S00504"
+          },
+          {
+            "gate_id": "K82",
+            "node_id": "N00227",
+            "coordinates": [
+              2.3724183,
+              48.743304
+            ],
+            "heading": 269.914492482861,
+            "segment_id": "S00514"
+          }
+        ]
+      },
+      "": {
+        "gates": [
+          {
+            "gate_id": "",
+            "node_id": "N00510",
+            "coordinates": [
+              2.3723822,
+              48.7281222
+            ],
+            "heading": 112.54077567016397,
+            "segment_id": "S00707"
+          }
+        ]
+      },
+      "J": {
+        "gates": [
+          {
+            "gate_id": "J01",
+            "node_id": "N00240",
+            "coordinates": [
+              2.3811516,
+              48.7395458
+            ],
+            "heading": 0.0,
+            "segment_id": "S00522"
+          },
+          {
+            "gate_id": "J02",
+            "node_id": "N00236",
+            "coordinates": [
+              2.3809808,
+              48.7402214
+            ],
+            "heading": 186.36024435632734,
+            "segment_id": "S00519"
+          },
+          {
+            "gate_id": "J21",
+            "node_id": "N00238",
+            "coordinates": [
+              2.381174,
+              48.740019
+            ],
+            "heading": 186.2981929720948,
+            "segment_id": "S00520"
+          },
+          {
+            "gate_id": "J22",
+            "node_id": "N00234",
+            "coordinates": [
+              2.3810825,
+              48.740393
+            ],
+            "heading": 186.08899753380567,
+            "segment_id": "S00518"
+          }
+        ]
+      },
+      "B": {
+        "gates": [
+          {
+            "gate_id": "B01",
+            "node_id": "N00242",
+            "coordinates": [
+              2.3746409,
+              48.7285661
+            ],
+            "heading": 90.44486818233698,
+            "segment_id": "S00523"
+          },
+          {
+            "gate_id": "B02",
+            "node_id": "N00248",
+            "coordinates": [
+              2.3754467,
+              48.728876
+            ],
+            "heading": 113.25739729783797,
+            "segment_id": "S00526"
+          },
+          {
+            "gate_id": "B03",
+            "node_id": "N00254",
+            "coordinates": [
+              2.375699,
+              48.7294603
+            ],
+            "heading": 153.7653295531645,
+            "segment_id": "S00529"
+          },
+          {
+            "gate_id": "B04",
+            "node_id": "N00260",
+            "coordinates": [
+              2.3759767,
+              48.7300695
+            ],
+            "heading": 165.47476878142965,
+            "segment_id": "S00532"
+          },
+          {
+            "gate_id": "B05",
+            "node_id": "N00264",
+            "coordinates": [
+              2.3760375,
+              48.7306405
+            ],
+            "heading": 185.15322270159635,
+            "segment_id": "S00535"
+          },
+          {
+            "gate_id": "B12",
+            "node_id": "N00244",
+            "coordinates": [
+              2.3746401,
+              48.7285996
+            ],
+            "heading": 112.22876938410417,
+            "segment_id": "S00524"
+          },
+          {
+            "gate_id": "B21",
+            "node_id": "N00246",
+            "coordinates": [
+              2.3752366,
+              48.7285982
+            ],
+            "heading": 111.9221128554899,
+            "segment_id": "S00525"
+          },
+          {
+            "gate_id": "B22",
+            "node_id": "N00250",
+            "coordinates": [
+              2.3753379,
+              48.7288848
+            ],
+            "heading": 146.34459030109923,
+            "segment_id": "S00527"
+          },
+          {
+            "gate_id": "B31",
+            "node_id": "N00252",
+            "coordinates": [
+              2.3756907,
+              48.7291896
+            ],
+            "heading": 142.3577766701091,
+            "segment_id": "S00528"
+          },
+          {
+            "gate_id": "B32",
+            "node_id": "N00256",
+            "coordinates": [
+              2.375761,
+              48.7294973
+            ],
+            "heading": 164.27119848133864,
+            "segment_id": "S00530"
+          },
+          {
+            "gate_id": "B41",
+            "node_id": "N00258",
+            "coordinates": [
+              2.3761609,
+              48.7297729
+            ],
+            "heading": 167.41722201593132,
+            "segment_id": "S00531"
+          },
+          {
+            "gate_id": "B42",
+            "node_id": "N00262",
+            "coordinates": [
+              2.3759931,
+              48.7300794
+            ],
+            "heading": 179.37225028485796,
+            "segment_id": "S00533"
+          },
+          {
+            "gate_id": "B51",
+            "node_id": "N00266",
+            "coordinates": [
+              2.3762476,
+              48.7305215
+            ],
+            "heading": 190.7572469372882,
+            "segment_id": "S00536"
+          },
+          {
+            "gate_id": "B52",
+            "node_id": "N00268",
+            "coordinates": [
+              2.3757934,
+              48.73067
+            ],
+            "heading": 209.999306421804,
+            "segment_id": "S00537"
+          },
+          {
+            "gate_id": "B61",
+            "node_id": "N00269",
+            "coordinates": [
+              2.3756239,
+              48.7310796
+            ],
+            "heading": 207.89468437236766,
+            "segment_id": "S00538"
+          },
+          {
+            "gate_id": "B62",
+            "node_id": "N00271",
+            "coordinates": [
+              2.3751828,
+              48.7310809
+            ],
+            "heading": 197.27129857536903,
+            "segment_id": "S00539"
+          }
+        ]
+      },
+      "G": {
+        "gates": [
+          {
+            "gate_id": "G02",
+            "node_id": "N00282",
+            "coordinates": [
+              2.3775957,
+              48.7323833
+            ],
+            "heading": 113.20085992297815,
+            "segment_id": "S00556"
+          },
+          {
+            "gate_id": "G03",
+            "node_id": "N00284",
+            "coordinates": [
+              2.3783704,
+              48.73247
+            ],
+            "heading": 112.62059469116208,
+            "segment_id": "S00557"
+          },
+          {
+            "gate_id": "G04",
+            "node_id": "N00286",
+            "coordinates": [
+              2.3786136,
+              48.7327217
+            ],
+            "heading": 162.62620879111097,
+            "segment_id": "S00558"
+          },
+          {
+            "gate_id": "G05",
+            "node_id": "N00290",
+            "coordinates": [
+              2.378457,
+              48.7333741
+            ],
+            "heading": 167.1678585512802,
+            "segment_id": "S00560"
+          },
+          {
+            "gate_id": "G06",
+            "node_id": "N00296",
+            "coordinates": [
+              2.3788539,
+              48.734127
+            ],
+            "heading": 167.56435607776393,
+            "segment_id": "S00563"
+          },
+          {
+            "gate_id": "G07",
+            "node_id": "N00304",
+            "coordinates": [
+              2.3792294,
+              48.7348927
+            ],
+            "heading": 167.65487278284616,
+            "segment_id": "S00567"
+          },
+          {
+            "gate_id": "G08",
+            "node_id": "N00516",
+            "coordinates": [
+              2.3799824,
+              48.7354625
+            ],
+            "heading": 167.6462292729181,
+            "segment_id": "S00712"
+          },
+          {
+            "gate_id": "G51",
+            "node_id": "N00288",
+            "coordinates": [
+              2.3785643,
+              48.7331364
+            ],
+            "heading": 169.83948864823765,
+            "segment_id": "S00559"
+          },
+          {
+            "gate_id": "G52",
+            "node_id": "N00292",
+            "coordinates": [
+              2.3785557,
+              48.7335397
+            ],
+            "heading": 167.53330151262057,
+            "segment_id": "S00561"
+          },
+          {
+            "gate_id": "G61",
+            "node_id": "N00294",
+            "coordinates": [
+              2.3787595,
+              48.7339275
+            ],
+            "heading": 167.68032682766858,
+            "segment_id": "S00562"
+          },
+          {
+            "gate_id": "G62",
+            "node_id": "N00298",
+            "coordinates": [
+              2.3789612,
+              48.7343209
+            ],
+            "heading": 167.59741937243342,
+            "segment_id": "S00564"
+          },
+          {
+            "gate_id": "G71",
+            "node_id": "N00300",
+            "coordinates": [
+              2.3793346,
+              48.7346705
+            ],
+            "heading": 167.7499005035335,
+            "segment_id": "S00565"
+          },
+          {
+            "gate_id": "G72",
+            "node_id": "N00302",
+            "coordinates": [
+              2.3793346,
+              48.735071
+            ],
+            "heading": 167.6601896932889,
+            "segment_id": "S00566"
+          },
+          {
+            "gate_id": "G81",
+            "node_id": "N00306",
+            "coordinates": [
+              2.3802497,
+              48.7352649
+            ],
+            "heading": 167.50169804481703,
+            "segment_id": "S00568"
+          },
+          {
+            "gate_id": "G82",
+            "node_id": "N00308",
+            "coordinates": [
+              2.3803785,
+              48.7355165
+            ],
+            "heading": 167.77218322600731,
+            "segment_id": "S00569"
+          }
+        ]
+      },
+      "F": {
+        "gates": [
+          {
+            "gate_id": "F10",
+            "node_id": "N00316",
+            "coordinates": [
+              2.3711809,
+              48.7251374
+            ],
+            "heading": 233.31653402737942,
+            "segment_id": "S00573"
+          },
+          {
+            "gate_id": "F20",
+            "node_id": "N00314",
+            "coordinates": [
+              2.3723996,
+              48.7252533
+            ],
+            "heading": 292.9759917506093,
+            "segment_id": "S00572"
+          },
+          {
+            "gate_id": "F30",
+            "node_id": "N00312",
+            "coordinates": [
+              2.372922,
+              48.7252575
+            ],
+            "heading": 241.5520500865249,
+            "segment_id": "S00571"
+          },
+          {
+            "gate_id": "F41",
+            "node_id": "N00558",
+            "coordinates": [
+              2.3743362,
+              48.7256694
+            ],
+            "heading": 292.80907854373936,
+            "segment_id": "S00743"
+          },
+          {
+            "gate_id": "F42",
+            "node_id": "N00560",
+            "coordinates": [
+              2.3748826,
+              48.725771
+            ],
+            "heading": 292.7776605363341,
+            "segment_id": "S00744"
+          }
+        ]
+      },
+      "E": {
+        "gates": [
+          {
+            "gate_id": "E01",
+            "node_id": "N00318",
+            "coordinates": [
+              2.3677702,
+              48.7244337
+            ],
+            "heading": 254.75755684427233,
+            "segment_id": "S00574"
+          },
+          {
+            "gate_id": "E02",
+            "node_id": "N00320",
+            "coordinates": [
+              2.3668386,
+              48.7242304
+            ],
+            "heading": 244.1745676525946,
+            "segment_id": "S00575"
+          },
+          {
+            "gate_id": "E03",
+            "node_id": "N00321",
+            "coordinates": [
+              2.3664456,
+              48.7241706
+            ],
+            "heading": 315.2677160927892,
+            "segment_id": "S00576"
+          },
+          {
+            "gate_id": "E04",
+            "node_id": "N00323",
+            "coordinates": [
+              2.3650676,
+              48.7238138
+            ],
+            "heading": 248.56846008242474,
+            "segment_id": "S00577"
+          },
+          {
+            "gate_id": "E05",
+            "node_id": "N00329",
+            "coordinates": [
+              2.3640052,
+              48.7234939
+            ],
+            "heading": 254.78227918952484,
+            "segment_id": "S00580"
+          },
+          {
+            "gate_id": "E06",
+            "node_id": "N00331",
+            "coordinates": [
+              2.3614295,
+              48.7230382
+            ],
+            "heading": 271.64348814496265,
+            "segment_id": "S00581"
+          },
+          {
+            "gate_id": "E07",
+            "node_id": "N00333",
+            "coordinates": [
+              2.3604821,
+              48.7229386
+            ],
+            "heading": 265.9177870223636,
+            "segment_id": "S00582"
+          },
+          {
+            "gate_id": "E08",
+            "node_id": "N00514",
+            "coordinates": [
+              2.3595438,
+              48.722698
+            ],
+            "heading": 272.03039030864437,
+            "segment_id": "S00709"
+          },
+          {
+            "gate_id": "E09",
+            "node_id": "N00337",
+            "coordinates": [
+              2.3585259,
+              48.7225029
+            ],
+            "heading": 272.22648243927756,
+            "segment_id": "S00584"
+          },
+          {
+            "gate_id": "E41",
+            "node_id": "N00325",
+            "coordinates": [
+              2.3657439,
+              48.7240376
+            ],
+            "heading": 301.0295381099623,
+            "segment_id": "S00578"
+          },
+          {
+            "gate_id": "E42",
+            "node_id": "N00327",
+            "coordinates": [
+              2.3651429,
+              48.723924
+            ],
+            "heading": 292.14599729371616,
+            "segment_id": "S00579"
+          },
+          {
+            "gate_id": "E61",
+            "node_id": "N00544",
+            "coordinates": [
+              2.3612967,
+              48.7231777
+            ],
+            "heading": 272.8248034073912,
+            "segment_id": "S00736"
+          },
+          {
+            "gate_id": "E71",
+            "node_id": "N00334",
+            "coordinates": [
+              2.3603494,
+              48.7230035
+            ],
+            "heading": 92.49744534550453,
+            "segment_id": "S00583"
+          }
+        ]
+      },
+      "N": {
+        "gates": [
+          {
+            "gate_id": "N01",
+            "node_id": "N00380",
+            "coordinates": [
+              2.3511599,
+              48.7264037
+            ],
+            "heading": 190.28571423001154,
+            "segment_id": "S00606"
+          },
+          {
+            "gate_id": "N02",
+            "node_id": "N00374",
+            "coordinates": [
+              2.3514269,
+              48.7257732
+            ],
+            "heading": 190.49389931418116,
+            "segment_id": "S00603"
+          },
+          {
+            "gate_id": "N03",
+            "node_id": "N00368",
+            "coordinates": [
+              2.351691,
+              48.7251446
+            ],
+            "heading": 190.50448826276207,
+            "segment_id": "S00600"
+          },
+          {
+            "gate_id": "N04",
+            "node_id": "N00364",
+            "coordinates": [
+              2.3520763,
+              48.7245611
+            ],
+            "heading": 190.40310719813434,
+            "segment_id": "S00598"
+          },
+          {
+            "gate_id": "N05",
+            "node_id": "N00347",
+            "coordinates": [
+              2.3511199,
+              48.7246319
+            ],
+            "heading": 113.26839545049698,
+            "segment_id": "S00589"
+          },
+          {
+            "gate_id": "N06",
+            "node_id": "N00339",
+            "coordinates": [
+              2.3501793,
+              48.7244566
+            ],
+            "heading": 112.81667145793014,
+            "segment_id": "S00585"
+          },
+          {
+            "gate_id": "N11",
+            "node_id": "N00382",
+            "coordinates": [
+              2.3513571,
+              48.7265589
+            ],
+            "heading": 190.45449913665027,
+            "segment_id": "S00607"
+          },
+          {
+            "gate_id": "N12",
+            "node_id": "N00378",
+            "coordinates": [
+              2.35148,
+              48.7261465
+            ],
+            "heading": 190.5388928350512,
+            "segment_id": "S00605"
+          },
+          {
+            "gate_id": "N21",
+            "node_id": "N00376",
+            "coordinates": [
+              2.3516955,
+              48.7257591
+            ],
+            "heading": 190.41942296454724,
+            "segment_id": "S00604"
+          },
+          {
+            "gate_id": "N25",
+            "node_id": "N00372",
+            "coordinates": [
+              2.3514785,
+              48.725648
+            ],
+            "heading": 190.46870242290186,
+            "segment_id": "S00602"
+          },
+          {
+            "gate_id": "N31",
+            "node_id": "N00370",
+            "coordinates": [
+              2.3518882,
+              48.7253017
+            ],
+            "heading": 190.5384811179857,
+            "segment_id": "S00601"
+          },
+          {
+            "gate_id": "N34",
+            "node_id": "N00366",
+            "coordinates": [
+              2.3520126,
+              48.7248944
+            ],
+            "heading": 190.52501666503838,
+            "segment_id": "S00599"
+          },
+          {
+            "gate_id": "N41",
+            "node_id": "N00362",
+            "coordinates": [
+              2.3522023,
+              48.724496
+            ],
+            "heading": 190.5232076395504,
+            "segment_id": "S00597"
+          },
+          {
+            "gate_id": "N51",
+            "node_id": "N00349",
+            "coordinates": [
+              2.3513032,
+              48.7245555
+            ],
+            "heading": 112.85344888418052,
+            "segment_id": "S00590"
+          },
+          {
+            "gate_id": "N55",
+            "node_id": "N00345",
+            "coordinates": [
+              2.3510473,
+              48.7246285
+            ],
+            "heading": 112.9336092983455,
+            "segment_id": "S00588"
+          },
+          {
+            "gate_id": "N56",
+            "node_id": "N00343",
+            "coordinates": [
+              2.3506882,
+              48.724478
+            ],
+            "heading": 112.58645503538607,
+            "segment_id": "S00587"
+          },
+          {
+            "gate_id": "N61",
+            "node_id": "N00341",
+            "coordinates": [
+              2.3500963,
+              48.7243316
+            ],
+            "heading": 112.58331188370016,
+            "segment_id": "S00586"
+          }
+        ]
+      },
+      "Q": {
+        "gates": [
+          {
+            "gate_id": "Q02",
+            "node_id": "N00353",
+            "coordinates": [
+              2.3504023,
+              48.725058
+            ],
+            "heading": 10.432997033154493,
+            "segment_id": "S00592"
+          },
+          {
+            "gate_id": "Q03",
+            "node_id": "N00359",
+            "coordinates": [
+              2.3500847,
+              48.7258108
+            ],
+            "heading": 10.341044045898606,
+            "segment_id": "S00595"
+          },
+          {
+            "gate_id": "Q21",
+            "node_id": "N00351",
+            "coordinates": [
+              2.3501154,
+              48.7248681
+            ],
+            "heading": 10.33101534383941,
+            "segment_id": "S00591"
+          },
+          {
+            "gate_id": "Q22",
+            "node_id": "N00355",
+            "coordinates": [
+              2.3499575,
+              48.7252461
+            ],
+            "heading": 10.311513602483123,
+            "segment_id": "S00593"
+          },
+          {
+            "gate_id": "Q31",
+            "node_id": "N00357",
+            "coordinates": [
+              2.3497942,
+              48.725624
+            ],
+            "heading": 10.412934465922257,
+            "segment_id": "S00594"
+          },
+          {
+            "gate_id": "Q32",
+            "node_id": "N00360",
+            "coordinates": [
+              2.3496462,
+              48.7260035
+            ],
+            "heading": 13.668151376511801,
+            "segment_id": "S00596"
+          }
+        ]
+      },
+      "M": {
+        "gates": [
+          {
+            "gate_id": "M01",
+            "node_id": "N00383",
+            "coordinates": [
+              2.3546746,
+              48.7250287
+            ],
+            "heading": 175.86574474944842,
+            "segment_id": "S00608"
+          },
+          {
+            "gate_id": "M02",
+            "node_id": "N00385",
+            "coordinates": [
+              2.3543954,
+              48.725553
+            ],
+            "heading": 166.66160626645592,
+            "segment_id": "S00609"
+          },
+          {
+            "gate_id": "M03",
+            "node_id": "N00387",
+            "coordinates": [
+              2.3542087,
+              48.7261171
+            ],
+            "heading": 166.709778471126,
+            "segment_id": "S00610"
+          },
+          {
+            "gate_id": "M04",
+            "node_id": "N00393",
+            "coordinates": [
+              2.3538788,
+              48.7267193
+            ],
+            "heading": 166.7537489069998,
+            "segment_id": "S00613"
+          },
+          {
+            "gate_id": "M05",
+            "node_id": "N00391",
+            "coordinates": [
+              2.3537953,
+              48.7272061
+            ],
+            "heading": 166.85179986384077,
+            "segment_id": "S00612"
+          },
+          {
+            "gate_id": "M06",
+            "node_id": "N00389",
+            "coordinates": [
+              2.353606,
+              48.7276663
+            ],
+            "heading": 167.3013844540187,
+            "segment_id": "S00611"
+          }
+        ]
+      },
+      "P": {
+        "gates": [
+          {
+            "gate_id": "P08",
+            "node_id": "N00402",
+            "coordinates": [
+              2.3619211,
+              48.7320302
+            ],
+            "heading": 324.19708925322107,
+            "segment_id": "S00622"
+          },
+          {
+            "gate_id": "P09",
+            "node_id": "N00403",
+            "coordinates": [
+              2.3614628,
+              48.7317338
+            ],
+            "heading": 304.32792659115563,
+            "segment_id": "S00623"
+          },
+          {
+            "gate_id": "P10",
+            "node_id": "N00405",
+            "coordinates": [
+              2.3609486,
+              48.7314803
+            ],
+            "heading": 300.02798998312096,
+            "segment_id": "S00624"
+          },
+          {
+            "gate_id": "P11",
+            "node_id": "N00407",
+            "coordinates": [
+              2.3604,
+              48.7313077
+            ],
+            "heading": 305.11278550746175,
+            "segment_id": "S00625"
+          },
+          {
+            "gate_id": "P12",
+            "node_id": "N00409",
+            "coordinates": [
+              2.3597807,
+              48.7310807
+            ],
+            "heading": 288.05313234562755,
+            "segment_id": "S00626"
+          },
+          {
+            "gate_id": "P13",
+            "node_id": "N00411",
+            "coordinates": [
+              2.3593202,
+              48.7308907
+            ],
+            "heading": 296.85298314346755,
+            "segment_id": "S00627"
+          },
+          {
+            "gate_id": "P14",
+            "node_id": "N00413",
+            "coordinates": [
+              2.359128,
+              48.7306278
+            ],
+            "heading": 326.1401392982266,
+            "segment_id": "S00628"
+          },
+          {
+            "gate_id": "P41",
+            "node_id": "N00415",
+            "coordinates": [
+              2.358697,
+              48.7303827
+            ],
+            "heading": 326.47009158488794,
+            "segment_id": "S00629"
+          },
+          {
+            "gate_id": "P42",
+            "node_id": "N00418",
+            "coordinates": [
+              2.3584122,
+              48.7300866
+            ],
+            "heading": 327.9629136332348,
+            "segment_id": "S00631"
+          }
+        ]
+      },
+      "R": {
+        "gates": [
+          {
+            "gate_id": "R01",
+            "node_id": "N00419",
+            "coordinates": [
+              2.3579733,
+              48.7296885
+            ],
+            "heading": 300.63229638875555,
+            "segment_id": "S00632"
+          },
+          {
+            "gate_id": "R22",
+            "node_id": "N00421",
+            "coordinates": [
+              2.3570353,
+              48.7298173
+            ],
+            "heading": 262.14875049128347,
+            "segment_id": "S00633"
+          }
+        ]
+      },
+      "S": {
+        "gates": [
+          {
+            "gate_id": "S04",
+            "node_id": "N00425",
+            "coordinates": [
+              2.356907,
+              48.7294932
+            ],
+            "heading": 338.1388229388515,
+            "segment_id": "S00635"
+          },
+          {
+            "gate_id": "S24",
+            "node_id": "N00423",
+            "coordinates": [
+              2.3567938,
+              48.7296627
+            ],
+            "heading": 337.31378395271184,
+            "segment_id": "S00634"
+          },
+          {
+            "gate_id": "S25",
+            "node_id": "N00427",
+            "coordinates": [
+              2.3569263,
+              48.7293482
+            ],
+            "heading": 351.5473280055262,
+            "segment_id": "S00636"
+          },
+          {
+            "gate_id": "S26",
+            "node_id": "N00429",
+            "coordinates": [
+              2.3567625,
+              48.7289159
+            ],
+            "heading": 341.172209509568,
+            "segment_id": "S00637"
+          }
+        ]
+      },
+      "T": {
+        "gates": [
+          {
+            "gate_id": "T26",
+            "node_id": "N00431",
+            "coordinates": [
+              2.3566551,
+              48.728496
+            ],
+            "heading": 16.502274939745448,
+            "segment_id": "S00638"
+          },
+          {
+            "gate_id": "T27",
+            "node_id": "N00438",
+            "coordinates": [
+              2.3570313,
+              48.7283251
+            ],
+            "heading": 36.878678800263245,
+            "segment_id": "S00650"
+          },
+          {
+            "gate_id": "T28",
+            "node_id": "N00440",
+            "coordinates": [
+              2.3575711,
+              48.728518
+            ],
+            "heading": 76.54549700368864,
+            "segment_id": "S00651"
+          },
+          {
+            "gate_id": "T29",
+            "node_id": "N00442",
+            "coordinates": [
+              2.3584669,
+              48.7284376
+            ],
+            "heading": 40.739245693633,
+            "segment_id": "S00652"
+          },
+          {
+            "gate_id": "T30",
+            "node_id": "N00443",
+            "coordinates": [
+              2.3584915,
+              48.7276597
+            ],
+            "heading": 319.7016766883164,
+            "segment_id": "S00653"
+          },
+          {
+            "gate_id": "T31",
+            "node_id": "N00445",
+            "coordinates": [
+              2.3578756,
+              48.7273662
+            ],
+            "heading": 281.03708865256857,
+            "segment_id": "S00654"
+          },
+          {
+            "gate_id": "T32",
+            "node_id": "N00447",
+            "coordinates": [
+              2.3572098,
+              48.7271555
+            ],
+            "heading": 311.47381081251285,
+            "segment_id": "S00655"
+          }
+        ]
+      },
+      "U": {
+        "gates": [
+          {
+            "gate_id": "U03",
+            "node_id": "N00502",
+            "coordinates": [
+              2.3574001,
+              48.7268632
+            ],
+            "heading": 7.385152032197184,
+            "segment_id": "S00703"
+          },
+          {
+            "gate_id": "U04",
+            "node_id": "N00449",
+            "coordinates": [
+              2.3579039,
+              48.7266617
+            ],
+            "heading": 16.903983109285882,
+            "segment_id": "S00656"
+          },
+          {
+            "gate_id": "U05",
+            "node_id": "N00451",
+            "coordinates": [
+              2.3582321,
+              48.7262467
+            ],
+            "heading": 10.00777066746751,
+            "segment_id": "S00657"
+          }
+        ]
+      },
+      "V": {
+        "gates": [
+          {
+            "gate_id": "V06",
+            "node_id": "N00453",
+            "coordinates": [
+              2.3588714,
+              48.7259188
+            ],
+            "heading": 55.885861767407775,
+            "segment_id": "S00658"
+          },
+          {
+            "gate_id": "V07",
+            "node_id": "N00455",
+            "coordinates": [
+              2.359396,
+              48.7261764
+            ],
+            "heading": 78.63635834313133,
+            "segment_id": "S00659"
+          }
+        ]
+      },
+      "A": {
+        "gates": [
+          {
+            "gate_id": "A01",
+            "node_id": "N00556",
+            "coordinates": [
+              2.3606457,
+              48.7259446
+            ],
+            "heading": 85.35187542697109,
+            "segment_id": "S00742"
+          },
+          {
+            "gate_id": "A02",
+            "node_id": "N00464",
+            "coordinates": [
+              2.3615005,
+              48.7260243
+            ],
+            "heading": 112.79459024566056,
+            "segment_id": "S00666"
+          },
+          {
+            "gate_id": "A03",
+            "node_id": "N00484",
+            "coordinates": [
+              2.3626225,
+              48.7262831
+            ],
+            "heading": 112.77750060422052,
+            "segment_id": "S00693"
+          },
+          {
+            "gate_id": "A04",
+            "node_id": "N00490",
+            "coordinates": [
+              2.3638483,
+              48.7264647
+            ],
+            "heading": 113.29410899617747,
+            "segment_id": "S00696"
+          },
+          {
+            "gate_id": "A05",
+            "node_id": "N00496",
+            "coordinates": [
+              2.3650094,
+              48.7267468
+            ],
+            "heading": 104.06730606293306,
+            "segment_id": "S00700"
+          },
+          {
+            "gate_id": "A11",
+            "node_id": "N00457",
+            "coordinates": [
+              2.3602835,
+              48.7255801
+            ],
+            "heading": 72.93421996148834,
+            "segment_id": "S00660"
+          },
+          {
+            "gate_id": "A12",
+            "node_id": "N00459",
+            "coordinates": [
+              2.3607681,
+              48.7258189
+            ],
+            "heading": 97.24346787073502,
+            "segment_id": "S00661"
+          },
+          {
+            "gate_id": "A21",
+            "node_id": "N00460",
+            "coordinates": [
+              2.3612986,
+              48.7257868
+            ],
+            "heading": 108.58435604238717,
+            "segment_id": "S00662"
+          },
+          {
+            "gate_id": "A22",
+            "node_id": "N00462",
+            "coordinates": [
+              2.3616709,
+              48.7261071
+            ],
+            "heading": 121.8732138228791,
+            "segment_id": "S00664"
+          },
+          {
+            "gate_id": "A32",
+            "node_id": "N00486",
+            "coordinates": [
+              2.3628163,
+              48.7263308
+            ],
+            "heading": 121.4154480295985,
+            "segment_id": "S00694"
+          },
+          {
+            "gate_id": "A41",
+            "node_id": "N00488",
+            "coordinates": [
+              2.3635706,
+              48.7262553
+            ],
+            "heading": 110.57779786904008,
+            "segment_id": "S00695"
+          },
+          {
+            "gate_id": "A42",
+            "node_id": "N00492",
+            "coordinates": [
+              2.3639634,
+              48.7265274
+            ],
+            "heading": 120.90401289898031,
+            "segment_id": "S00697"
+          },
+          {
+            "gate_id": "A51",
+            "node_id": "N00494",
+            "coordinates": [
+              2.3647466,
+              48.7264655
+            ],
+            "heading": 130.83155685704182,
+            "segment_id": "S00699"
+          },
+          {
+            "gate_id": "A52",
+            "node_id": "N00498",
+            "coordinates": [
+              2.3651435,
+              48.7267663
+            ],
+            "heading": 122.91069399647048,
+            "segment_id": "S00701"
+          }
+        ]
+      },
+      "D": {
+        "gates": [
+          {
+            "gate_id": "D01",
+            "node_id": "N00500",
+            "coordinates": [
+              2.3684927,
+              48.7274437
+            ],
+            "heading": 102.72953957273918,
+            "segment_id": "S00702"
+          },
+          {
+            "gate_id": "D02",
+            "node_id": "N00470",
+            "coordinates": [
+              2.367591,
+              48.7273503
+            ],
+            "heading": 74.58662983523543,
+            "segment_id": "S00670"
+          },
+          {
+            "gate_id": "D04",
+            "node_id": "N00468",
+            "coordinates": [
+              2.3667015,
+              48.727098
+            ],
+            "heading": 80.86682110460002,
+            "segment_id": "S00669"
+          },
+          {
+            "gate_id": "D06",
+            "node_id": "N00466",
+            "coordinates": [
+              2.3659358,
+              48.7270293
+            ],
+            "heading": 98.79487989684793,
+            "segment_id": "S00668"
+          }
+        ]
+      },
+      "C": {
+        "gates": [
+          {
+            "gate_id": "C01",
+            "node_id": "N00504",
+            "coordinates": [
+              2.3704106,
+              48.7274835
+            ],
+            "heading": 113.41482072086842,
+            "segment_id": "S00704"
+          },
+          {
+            "gate_id": "C02",
+            "node_id": "N00506",
+            "coordinates": [
+              2.371063,
+              48.7276039
+            ],
+            "heading": 112.84305953880167,
+            "segment_id": "S00705"
+          },
+          {
+            "gate_id": "C03",
+            "node_id": "N00508",
+            "coordinates": [
+              2.3717144,
+              48.7277202
+            ],
+            "heading": 112.9934082584697,
+            "segment_id": "S00706"
+          },
+          {
+            "gate_id": "C08",
+            "node_id": "N00512",
+            "coordinates": [
+              2.3733302,
+              48.7282993
+            ],
+            "heading": 112.54972712243656,
+            "segment_id": "S00708"
+          }
+        ]
+      }
+    },
+    "total_count": 157
+  },
+  "runway_configurations": {
+    "WEST": {
+      "departure": "24",
+      "arrival": "25",
+      "entrances": [
+        ["W41", "N00108"],
+        ["W42", "N00119"]
+      ],
+      "exits": [
+        ["W34", "N00131"],
+        ["W35", "N00074"],
+        ["W36", "N00070"],
+        ["W37", "N00002"]
+      ],
+      "alternates": {
+        "departure": "06",
+        "arrival": "07"
+      }
+    },
+    "EAST": {
+      "departure": "07",
+      "arrival": "06",
+      "entrances": [
+        ["W37", "N00002"],
+        ["W36", "N00070"]
+      ],
+      "exits": [
+        ["W43", "N00006"],
+        ["W42", "N00119"],
+        ["W41", "N00108"]
+      ],
+      "alternates": {
+        "departure": "24",
+        "arrival": "25"
+      }
+    }
+  }
+}

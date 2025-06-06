@@ -1,0 +1,6 @@
+geojson==3.0.1
+shapely==2.0.1
+numpy==1.24.3
+pandas==2.0.2
+geopy==2.3.0
+matplotlib==3.7.1 

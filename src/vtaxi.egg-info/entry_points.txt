@@ -1,0 +1,2 @@
+[console_scripts]
+vtaxi = vtaxi.__main__:main

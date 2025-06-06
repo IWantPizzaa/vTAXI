@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: vtaxi
+Version: 0.1.0
+Summary: AI Air Traffic Controller for Ground Operations at Paris-Orly Airport (LFPO)
+Author: Mathias
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Topic :: Scientific/Engineering
+Requires-Python: >=3.8
+Requires-Dist: shapely>=2.0.0
+Requires-Dist: geojson>=3.0.0

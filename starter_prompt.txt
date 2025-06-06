@@ -1,0 +1,49 @@
+vTAXI - Virtual Air Traffic Control System for Paris-Orly Airport (LFPO)
+
+Current Project Status:
+We are developing an AI-based ground traffic control system for Paris-Orly Airport. The system currently has:
+
+1. Core Infrastructure:
+   - Complete airport layout processing from GeoJSON data
+   - Accurate pathfinding system for taxi routes
+   - Basic visualization tools for airport layout and paths
+
+2. In-Progress Components:
+   - Aircraft physics engine (partially implemented)
+     * Basic ICAO weight categories
+     * Movement constraints (speed, acceleration, turning)
+     * Need to add: more aircraft types, pushback operations
+   
+   - Taxi movement system (under development)
+     * Path following with physics constraints
+     * Speed profiles for different segment types
+     * Currently debugging sharp turn handling
+
+Next Steps:
+
+1. Short-term Goals:
+   - Fix sharp turn calculations in taxi_movement.py
+   - Complete aircraft type database in aircraft_physics.py
+   - Implement proper pushback procedures
+   - Add support for simultaneous aircraft movements
+
+2. Medium-term Goals:
+   - Develop conflict detection and resolution
+   - Implement traffic flow management rules
+   - Create a real-time simulation clock
+   - Add support for weather conditions
+
+3. Long-term Vision:
+   - Build an AI model using reinforcement learning
+   - Train the system on various traffic scenarios
+   - Develop a web-based visualization interface
+   - Create a complete training environment for controllers
+
+The project aims to create a realistic ground movement simulation that can be used for:
+- Training air traffic controllers
+- Testing new ground movement procedures
+- Optimizing airport operations
+- Developing AI-based traffic management solutions
+
+Current Focus:
+We are primarily working on completing the physics and movement systems before moving on to the AI components. This involves ensuring accurate aircraft behavior, especially during complex maneuvers like turns and pushbacks.
